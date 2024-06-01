@@ -1,0 +1,11 @@
+#downloadmycv:hover {
+    color: rgba(253, 247, 247, 0.913);
+}
+
+.background {
+    background-image: url(./images/saipic4.jpg);
+}
+h1{
+    text-align: left;
+    size-adjust: 30px;
+}
